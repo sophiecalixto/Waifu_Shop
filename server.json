@@ -1,0 +1,120 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Astolfo / Trap",
+      "price": 500.0,
+      "image": "https://i.pinimg.com/564x/02/e4/f6/02e4f698b0621e169c19424cbf800f72.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Noi / Femdom",
+      "price": 670.0,
+      "image": "https://pbs.twimg.com/media/EOlh6UgU0AAGmkb.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Zero Two / Waifu",
+      "price": 240.0,
+      "image": "https://i.pinimg.com/originals/27/9d/60/279d60166aa6d25c9bf4fa4cd2f9f9eb.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Hideri / Trap",
+      "price": 360.0,
+      "image": "https://pm1.narvii.com/6870/9d44adc07a476412c45212b23a11c500df70e6b3r1-694-625v2_hq.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Rei Chikita / God",
+      "price": 900.0,
+      "image": "https://pbs.twimg.com/media/E5ov7t-X0AQFJ5p.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Megumin",
+      "price": 510.0,
+      "image": "https://i.pinimg.com/originals/a4/f8/4f/a4f84f26ec10f15d2ccd8ad37c4154ca.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Neko Arc / God",
+      "price": 999.0,
+      "image": "https://images.gamebanana.com/img/ss/mods/615cd8d65e129.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Rem / Waifu",
+      "price": 380.0,
+      "image": "https://img.wattpad.com/2fe3be1f95564e58ef901cdb8066dd6c46a33ede/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f313064724d5769753866347856413d3d2d32342e3136343232313965346635336432376539363133353639343036352e6a7067?s=fit&w=720&h=720"
+    },
+    {
+      "id": 9,
+      "title": "Nezuko / Demon",
+      "price": 320.0,
+      "image": "https://64.media.tumblr.com/8847216ab2855d91e36f39cd763f1171/fed4ac80374d2060-e3/s540x810/2144b73688ab957b78e734560c9ef83ccfadae49.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Mikasa",
+      "price": 410.0,
+      "image": "https://img.quizur.com/f/img60b252b7a7a223.06121234.png?lastEdited=1622299324"
+    },
+    {
+      "id": 11,
+      "title": "Yumeko",
+      "price": 240.0,
+      "image": "https://gartic.com.br/imgs/mural/is/issei_senpai/jabami-yumeko.png"
+    },
+    {
+      "id": 12,
+      "title": "Violet",
+      "price": 390.0,
+      "image": "https://nextau.com/wp-content/uploads/2021/10/Violet_Evergarden.png"
+    },
+    {
+      "id": 13,
+      "title": "Nagato",
+      "price": 350.0,
+      "image": "https://external-preview.redd.it/vLi7ODXIriIUcI6jWcWIf8bciZVa3FUHRezzNdqwz5I.png?auto=webp&s=dae80a9fe03c4aad0a3d8c0ec04512c1a74d0b62"
+    },
+    {
+      "id": 14,
+      "title": "Tohru / Maid",
+      "price": 670.0,
+      "image": "http://pm1.narvii.com/6927/63c2ae6ea6b03ce6c6d524fc3bcd89eb750a2e09r1-606-648v2_00.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Sangwoo / Psicopata",
+      "price": 710.00,
+      "image": "https://i.pinimg.com/originals/ea/46/be/ea46be2312a3cf29627e10eefc1dfb75.jpg"
+    }              
+  ]
+}
